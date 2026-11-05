@@ -1,24 +1,9 @@
-hi, i'm César Lisboa.
+### César Lisboa
 
-i build playful and experimental things with code.
-i’m interested in how technology can feel tactile, nostalgic and human.
+Software Engineering student at UNDB (São Luís, Brazil) and president of LAIC, UNDB's academic league for AI and data science.
 
-🧪 most of my work revolves around:
-- creative coding
-- interfaces & interaction
-- sound, radio and web audio
-- retro / low-fi digital aesthetics
+- Building the admin panel for Miniverso's institutional site: Next.js, TypeScript and a BFF that keeps the session token in an httpOnly cookie
+- Built an IoT gas detector with ESP32-C3 and MQTT over TLS, with a real-time web dashboard and a Python collector that logs readings to SQLite
+- Working through data structures and algorithms, heading toward data science
 
-📻 currently working on:
-- a retro-inspired web radio project
-- small tools and experiments around sound and interfaces
-
-i like to treat code as a playground —
-a place to explore, prototype and transmit ideas.
-
-tools i often use:
-javascript, web audio api, canvas, html/css
-
-sometimes i ship things.
-sometimes i just experiment.
-both are intentional.
+**Stack:** TypeScript · React · Next.js · Python · C++ (ESP32/Arduino) · MQTT · SQLite
